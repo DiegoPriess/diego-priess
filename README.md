@@ -8,7 +8,7 @@
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DiegoPriess&theme=radical) !['Diego Priess'](https://github-readme-stats.vercel.app/api?username=DiegoPriess&show_icons=true&theme=radical)
 
-[![Diego Priess](https://github-readme-stats.vercel.app/api/wakatime?username=Diego Priess)](https://github.com/Diego Priess/github-readme-stats)
+![Diego Priess](https://github-readme-stats.vercel.app/api/wakatime?username=Diego Priess)](https://github.com/Diego Priess/github-readme-stats)
 <!--
 **DiegoPriess/DiegoPriess** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
