@@ -1,6 +1,6 @@
 ### Hi there! I'm a Diego 👋
 
-<div style="display:inline-block;">
+<div style="display:flex;">
   &#9999;&#65039; Now i learning Java, and the next steps are
   <ul>
     <li>ReactJs</li>
@@ -10,7 +10,7 @@
   </ul>
 </div>
 
-<div style="display:inline-block;">
+<div style="display:flex;">
   :computer: I am constantly using the code languages
   <ul>
     <li>Html</li>
@@ -20,8 +20,8 @@
   </ul>
 </div>
 
-!['Diego Priess'](https://github-readme-stats.vercel.app/api?username=DiegoPriess&show_icons=true&theme=dark)
-<br>
+<!--!['Diego Priess'](https://github-readme-stats.vercel.app/api?username=DiegoPriess&show_icons=true&theme=dark)
+<br>-->
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DiegoPriess&layout=compact&theme=dark)](https://github.com/DiegoPriess/github-readme-stats) 
 
 
