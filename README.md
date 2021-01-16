@@ -1,12 +1,18 @@
 ### Hi there! I'm a Diego 👋
 
-<details>
-  <br>  
-</details>
+I’m currently learning
+<ul>
+  <li></li>
+</ul>
+
+<a href="https://github.com/DiegoPriess/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=DiegoPriess&show_icons=true&theme=radical" />
+</a>
+<a href="https://github.com/DiegoPriess/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DiegoPriess&layout=compact&theme=radical" />
+</a>
 
 
-
-!['Diego Priess'](https://github-readme-stats.vercel.app/api?username=DiegoPriess&show_icons=true&theme=radical)[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DiegoPriess&layout=compact&theme=radical)](https://github.com/DiegoPriess/github-readme-stats) 
 
 
 <!--
