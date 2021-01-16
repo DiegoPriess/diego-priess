@@ -6,7 +6,7 @@
 
 !['Diego Priess'](https://github-readme-stats.vercel.app/api?username=DiegoPriess&show_icons=true&theme=radical)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DiegoPriess&theme=radical)](https://github.com/DiegoPriess/github-readme-stats)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DiegoPriess&theme=radical)
 
 <!--
 **DiegoPriess/DiegoPriess** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
