@@ -1,13 +1,24 @@
 ### Hi there! I'm a Diego 👋
 
-I’m currently learning
+&#9999;&#65039; Now i learning Java, and the next steps are
 <ul>
-  <li></li>
+  <li>ReactJs</li>
+  <li>Node</li>
+  <li>Angular</li>
+  <li>Vue.js</li>
 </ul>
 
-<a href="https://github.com/DiegoPriess/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=DiegoPriess&show_icons=true&theme=radical" />
-</a>
+:computer: I am constantly using the code languages
+<ul>
+  <li>Html</li>
+  <li>Css</li>
+  <li>Javascript</li>
+  <li>Php</li>
+</ul>
+
+!['Diego Priess'](https://github-readme-stats.vercel.app/api?username=DiegoPriess&show_icons=true&theme=dark)
+<br>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DiegoPriess&layout=compact&theme=dark)](https://github.com/DiegoPriess/github-readme-stats) 
 
 
 
