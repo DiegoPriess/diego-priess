@@ -1,20 +1,24 @@
 ### Hi there! I'm a Diego 👋
 
-&#9999;&#65039; Now i learning Java, and the next steps are
-<ul>
-  <li>ReactJs</li>
-  <li>Node</li>
-  <li>Angular</li>
-  <li>Vue.js</li>
-</ul>
+<div style="display:inline-block;">
+  &#9999;&#65039; Now i learning Java, and the next steps are
+  <ul>
+    <li>ReactJs</li>
+    <li>Node</li>
+    <li>Angular</li>
+    <li>Vue.js</li>
+  </ul>
+</div>
 
-:computer: I am constantly using the code languages
-<ul>
-  <li>Html</li>
-  <li>Css</li>
-  <li>Javascript</li>
-  <li>Php</li>
-</ul>
+<div style="display:inline-block;">
+  :computer: I am constantly using the code languages
+  <ul>
+    <li>Html</li>
+    <li>Css</li>
+    <li>Javascript</li>
+    <li>Php</li>
+  </ul>
+</div>
 
 !['Diego Priess'](https://github-readme-stats.vercel.app/api?username=DiegoPriess&show_icons=true&theme=dark)
 <br>
