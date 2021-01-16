@@ -8,9 +8,6 @@ I’m currently learning
 <a href="https://github.com/DiegoPriess/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=DiegoPriess&show_icons=true&theme=radical" />
 </a>
-<a href="https://github.com/DiegoPriess/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DiegoPriess&layout=compact&theme=radical" />
-</a>
 
 
 
