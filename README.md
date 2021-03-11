@@ -5,13 +5,13 @@
   <ul>
     <li>Html</li>
     <li>Css</li>
-    <li>Javascript</li>
-    <li>Php</li>
-    <li>JQuery</li>
     <li>Sass</li>
     <li>less</li>
-    <li>Java</li>
+    <li>Javascript</li>
+    <li>JQuery</li>
     <li>AngularJs</li>
+    <li>Java</li>
+    <li>Php</li>
   </ul>
 </div>
 
