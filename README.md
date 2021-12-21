@@ -13,5 +13,3 @@
     <li>IONIC 1</li>
   </ul>
 </div>
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DiegoPriess&theme=tokyonight)
