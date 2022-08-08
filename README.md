@@ -1,15 +1,6 @@
-### Hi there! I'm Diego, I work at Neomind as a Full Stack developer 👋
+<h1 align="center">Hi , I'm Diego Priess <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 
-<div style="display:flex;">
-  :computer: Now i am constantly using
-  <ul>
-    <li>Html</li>
-    <li>Sass</li>
-    <li>Javascript</li>
-    <li>AngularJs</li>
-    <li>Java</li>
-    <li>ReactJs</li>
-    <li>NodeJs</li>
-    <li>IONIC 1</li>
-  </ul>
-</div>
+<br>
+<br>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=DiegoPriess&langs_count=10&show_icons=true&locale=en&layout=compact&theme=algolia" alt="DiegoPriess" height="250px"/>
