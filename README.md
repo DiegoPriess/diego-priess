@@ -3,4 +3,4 @@
 <br>
 <br>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=DiegoPriess&langs_count=10&show_icons=true&locale=en&layout=compact&theme=algolia" alt="DiegoPriess" height="250px"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=DiegoPriess&langs_count=10&show_icons=true&locale=pt-br&layout=compact&theme=algolia" alt="DiegoPriess" height="250px"/>
